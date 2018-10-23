@@ -1,5 +1,5 @@
 # hello-world
-Practice repository
+Practice repositoory
 
 Hi Humans!
 
